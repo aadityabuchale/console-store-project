@@ -13,12 +13,13 @@ Hello..!
 
 
 # Exception
- If user enters wrong number or any non numeric value then I have handled InputMisMatch Exception and  it also includes sleep method of Thread class which will give time to read the message.
+ If user enters wrong number or any non numeric value then I have handled InputMisMatchException and
+ it also includes sleep() method of Thread class which gives time to read the message.
 
 ![Screenshot 2023-03-13 215340](https://user-images.githubusercontent.com/103892684/224767450-f278bbe8-59e5-4088-987e-99e7ebafdd4a.png)
 
 # Product List
-Number of Produts are Lised here as per Main Menu. user can click the id of product and quantity.
+Number of Produts are Lised here as per Main Menu. user can enters the id of product and quantity.
 
 ![Screenshot 2023-03-13 215032](https://user-images.githubusercontent.com/103892684/224769597-9da5f6bc-ccd4-4f7f-aa03-36dbb59f536a.png)
 
@@ -29,3 +30,5 @@ This also has a realtime time and date included in bill
 also I have added  5% discount when user makes purchase above 500.
 
 ![Screenshot 2023-03-13 215304](https://user-images.githubusercontent.com/103892684/224769423-112c1df4-70b1-499b-b695-9ba5d65b93cc.png)
+
+#                                                   Thank You
