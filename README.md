@@ -1,34 +1,36 @@
 
 # OverView
 Hello..!
-    Here,I made a console Based Store Application as a part of my Java Training in this People can Buy Things which is listed there.
+    Here,I made a console Based Store Application as a part of my Java Training.In this People can Buy Things which are listed there.
     This store project can be used in stores for ease of customer handling and speed of work.
-    I have attached some of photos of intraction with user.
+    I have attached some photos of the interaction with the user.
     
   # Entry Page of Store
   
-   At starting the interface is shown as below , when user enters right code then it will process further.
-  
-![Screenshot 2023-03-13 214908](https://user-images.githubusercontent.com/103892684/224766934-2346a1a1-9561-4f55-8c4e-dd08f218bd40.png)
+   The starting interface is shown below, when the user enters the right code then it will process further.
 
+   
+  ![img1_2](https://github.com/aadityabuchale/console-store-project/assets/103892684/ba4890f9-c0fe-4a03-8cb8-311df3200915)
 
 # Exception
- If user enters wrong number or any non numeric value then I have handled InputMisMatchException and
+ If the user enters wrong number or any non-numeric value then I have handled InputMisMatchException and
  it also includes sleep() method of Thread class which gives time to read the message.
 
-![Screenshot 2023-03-13 215340](https://user-images.githubusercontent.com/103892684/224767450-f278bbe8-59e5-4088-987e-99e7ebafdd4a.png)
+![img2_2](https://github.com/aadityabuchale/console-store-project/assets/103892684/17f8db8e-c17f-42e6-b5fe-7f97e87d38be)
+
 
 # Product List
-Number of Produts are Lised here as per Main Menu. user can enters the id of product and quantity.
+The number of Products are Lised here as per Main Menu. User can enter the id of product and quantity.
 
-![Screenshot 2023-03-13 215032](https://user-images.githubusercontent.com/103892684/224769597-9da5f6bc-ccd4-4f7f-aa03-36dbb59f536a.png)
+![img3_2](https://github.com/aadityabuchale/console-store-project/assets/103892684/e7f019bc-7e31-462e-a7a9-de10b8b67ce9)
 
 # Final Bill
 
-This is the Image of Final Generated Bill which includes name, addresss , and contact number of user for Authentication Purpose
-This also has a realtime time and date included in bill
-also I have added  5% discount when user makes purchase above 500.
+This is the Image of the Final Generated Bill which includes the name, address, and contact number of the user for Authentication Purposes
+This also has a real-time time and date included in the bill.
+also, I have added a 5% discount when the user makes a purchase above 500.
 
-![Screenshot 2023-03-13 215304](https://user-images.githubusercontent.com/103892684/224769423-112c1df4-70b1-499b-b695-9ba5d65b93cc.png)
+![img4](https://github.com/aadityabuchale/console-store-project/assets/103892684/646fa608-8a85-40d4-b1b7-d59d7cb671e9)
 
-#                                                   Thank You
+
+#                                                   Thank You..!!
